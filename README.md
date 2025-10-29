@@ -53,7 +53,7 @@ The system automatically detects valid URLs, downloads the media, and sends it b
 
 ## 🛠️ Configuration
 
-1. **Edit `config.php`:**
+1. **Edit `config.js`:**
 
    ```js
    // config.js
